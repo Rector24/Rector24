@@ -68,8 +68,17 @@ Here's a list of languages, tools, and technologies I have experience with:
 
 
 *   **travelingWebsite)**: A traveling website project that I created for my cousin, for a school project he had for his CNA module, this was done using HTML/CSS.
-  [View Project](https://github.com/Rector24/Travelingwebsite)  
-  
+  [View Project](https://github.com/Rector24/Travelingwebsite)
+
+
+*  ***Meal-Planning-and-Ordering-System**: This project focuses on developing an Object-Oriented Programming (OOP) application for the Belgium Campus to manage meal planning and ordering. As the campus expands
+  its operations and collaborates with an independent entity, BC-Eats, this application aims to streamline the meal ordering process for both students and lecturers.
+  [View Project](https://github.com/Rector24/-Meal-Planning-and-Ordering-System)
+
+
+*  **Macy- Pizza**: This project aims to provide hands-on experience in database administration, covering design, implementation, security, and performance monitoring, which are crucial skills for any aspiring 
+   database administrator.
+  [View Project](https://github.com/Rector24/macy-pizza)
 
 *    **All Projects**: [View my full repository of projects here](https://github.com/Rector24?tab=repositories)  
 

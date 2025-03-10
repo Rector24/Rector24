@@ -30,24 +30,34 @@ Phone Number:
 ---  
 
 ## 🛠️ LANGUAGES AND TOOLS I WORK WITH:  
+Here's a list of languages, tools, and technologies I have experience with:  
 
-<p align="left">  
-  <img src="URL_TO_HTML_CSS_LOGO" alt="HTML/CSS" width="30" height="30"/>  
-  <img src="URL_TO_POWERSHELL_LOGO" alt="PowerShell" width="30" height="30"/>  
-  <img src="URL_TO_NODE_RED_LOGO" alt="Node-RED" width="30" height="30"/>  
-  <img src="URL_TO_SQL_SERVER_LOGO" alt="SQL Server" width="30" height="30"/>  
-  <img src="URL_TO_PROJECT_LIBRE_LOGO" alt="Project Libre" width="30" height="30"/>  
-  <img src="URL_TO_AZURE_LOGO" alt="Microsoft Azure" width="30" height="30"/>  
-  <img src="URL_TO_WORDPRESS_LOGO" alt="WordPress" width="30" height="30"/>  
-  <img src="URL_TO_JAVASCRIPT_LOGO" alt="JavaScript" width="30" height="30"/>  
-  <img src="URL_TO_CSHARP_LOGO" alt="C#" width="30" height="30"/>  
-  <img src="URL_TO_PYTHON_LOGO" alt="Python" width="30" height="30"/>  
-  <img src="URL_TO_VISUAL_STUDIO_LOGO" alt="Visual Studio" width="30" height="30"/>  
-  <img src="URL_TO_POWERBI_LOGO" alt="Power BI" width="30" height="30"/>  
-  <img src="URL_TO_CISCO_PACKET_TRACER_LOGO" alt="Cisco Packet Tracer" width="30" height="30"/>  
-    <img src="URL_TO_SCRATCH_LOGO" alt="Scratch" width="30" height="30"/>  
-    <img src="URL_TO_MONGODB_LOGO" alt="MongoDB" width="30" height="30"/>  
-</p>   
+- **Web Design:**  
+    - HTML/CSS  
+    - JavaScript  
+    - WordPress  
+- **Programming Languages:**  
+    - Python  
+    - C#  
+- **Scripting/Automation:**  
+    - PowerShell  
+- **Databases:**  
+    - SQL Server Management  
+    - MongoDB  
+- **Data Analysis/Visualization:**  
+    - Power BI Desktop  
+- **Networking:**  
+    - Network Setup (WLAN, LAN, ipconfig)  
+    - Cisco Packet Tracer  
+- **Development Environments/Tools:**  
+    - Visual Studio / Visual Studio Code  
+    - Node-RED  
+- **Project Management:**  
+    - Project Libre  
+- **Cloud Computing:**  
+    - Microsoft Azure  
+- **Other:**  
+    - Scratch 3
 
 ---  
 

@@ -62,7 +62,7 @@ Phone Number:
 
 
 *   **travelingWebsite)**: A traveling website project that I created for my cousin, for a school project he had for his CNA module, this was done using HTML/CSS.
-  - [View Project](https://github.com/Rector24/Travelingwebsite)  
+  [View Project](https://github.com/Rector24/Travelingwebsite)  
   
 
 *    **All Projects**: [View my full repository of projects here](https://github.com/Rector24?tab=repositories)  

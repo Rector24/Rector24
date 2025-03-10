@@ -31,7 +31,7 @@ Phone Number:
 
 ## 🛠️ LANGUAGES AND TOOLS I WORK WITH:  
 
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)  
+![Android](https://developer.android.com/)  
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)  
 ![Bootstrap](https://img.shields.io/badge/bootstrap-5268A0?style=for-the-badge&logo=bootstrap&logoColor=white)  
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)  

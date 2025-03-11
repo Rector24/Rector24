@@ -51,7 +51,9 @@ Here's a list of languages, tools, and technologies I have experience with:
     - Cisco Packet Tracer  
 - **Development Environments/Tools:**  
     - Visual Studio / Visual Studio Code  
-    - Node-RED  
+    - Node-RED
+    - Anaconda (for Python development and data science)
+    - Pycharm (for Python development)  
 - **Project Management:**  
     - Project Libre  
 - **Cloud Computing:**  

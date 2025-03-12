@@ -90,6 +90,7 @@ Here's a list of languages, tools, and technologies I have experience with:
 
 You can check out my portfolio at:  
 [My small Portfolio](https://github.com/Rector24/My-portfolio)
+
 [My CV website](https://rector24.github.io/RectorPhakulaOnlineCVwebsite/)
 
 ---  

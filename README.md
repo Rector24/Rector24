@@ -53,7 +53,8 @@ Here's a list of languages, tools, and technologies I have experience with:
     - Visual Studio / Visual Studio Code  
     - Node-RED
     - Anaconda (for Python development and data science)
-    - Pycharm (for Python development)  
+    - Pycharm (for Python development)
+    - Figma  
 - **Project Management:**  
     - Project Libre  
 - **Cloud Computing:**  

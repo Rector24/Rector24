@@ -8,7 +8,7 @@ Aspiring software developer/Data Administrator | Soon to be an IT Graduate
 
 ## 👨‍💻 ABOUT ME:  
 
-I love turning concepts into useful solutions and am passionate about technology, innovation, and problem-solving.  With my years of knowledge in software development, I succeed in dynamic workplaces where creativity and technology meet.  From adjusting backend development to creating simple user experiences and solving complex challenges, I resolve each assignment with a different viewpoint and a commitment to performance.  My curiosity and drive for technology fuel my willingness to face difficulties that promote growth and innovative thinking.  I'm continually looking for new ways to work together, develop, and make a difference in the ever-changing tech industry.
+I love turning concepts into useful solutions and am passionate about technology, innovation, and problem-solving.  With my years of knowledge in software development, I succeed in dynamic workplaces where creativity and technology meet.  From adjusting backend development to creating simple user experiences and solving complex challenges, I approach each assignment with a unique perspective and a commitment to excellence.  My curiosity and drive for technology fuel my willingness to face difficulties that promote growth and innovative thinking.  I'm continually seeking new ways to collaborate, grow, and make a positive impact in the ever-evolving tech industry.
 
 ---  
 
@@ -32,71 +32,95 @@ Phone Number:
 ## 🛠️ LANGUAGES AND TOOLS I WORK WITH:  
 Here's a list of languages, tools, and technologies I have experience with:  
 
-- **Web Design:**  
-    - HTML/CSS  
-    - JavaScript  
-    - WordPress  
-- **Programming Languages:**  
-    - Python  
-    - C#  
-- **Scripting/Automation:**  
-    - PowerShell  
-- **Databases:**  
-    - SQL Server Management  
-    - MongoDB  
-- **Data Analysis/Visualization:**  
-    - Power BI Desktop  
-- **Networking:**  
-    - Network Setup (WLAN, LAN, ipconfig)  
-    - Cisco Packet Tracer  
-- **Development Environments/Tools:**  
-    - Visual Studio / Visual Studio Code  
-    - Node-RED
-    - Anaconda (for Python development and data science)
-    - Pycharm (for Python development)
-    - Figma  
-- **Project Management:**  
-    - Project Libre  
-- **Cloud Computing:**  
-    - Microsoft Azure  
-- **Other:**  
-    - Scratch 3
+### 🌐 Web Development
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript)
+![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat&logo=wordpress)
+
+### 💻 Programming Languages
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python)
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp)
+
+### ⚙️ Scripting & Automation
+![PowerShell](https://img.shields.io/badge/-PowerShell-5391FE?style=flat&logo=powershell)
+
+### 🛢️ Databases
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb)
+![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat&logo=microsoft-sql-server)
+
+### 📊 Data Analysis & Visualization
+![Power BI](https://img.shields.io/badge/-PowerBI-F2C811?style=flat&logo=power-bi)
+
+### ☁️ Cloud & Networking
+![Microsoft Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat&logo=microsoft-azure)
+![Cisco](https://img.shields.io/badge/-Cisco-1BA0D7?style=flat&logo=cisco)
+
+### 🧰 Tools & IDEs
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code)
+![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=flat&logo=visual-studio)
+![PyCharm](https://img.shields.io/badge/-PyCharm-000000?style=flat&logo=pycharm)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma)
+![Anaconda](https://img.shields.io/badge/-Anaconda-44A833?style=flat&logo=anaconda)
+![Node-RED](https://img.shields.io/badge/-Node--RED-BB0000?style=flat&logo=nodered)
+
+---
+
+## 🧠 Certifications
+- 📘 Introduction to Data Science
+- 🤖 Introduction to Modern AI
+- 🔐 Network Support and Security
+- 🐍 Python Essentials 1
+
+---
+
+## 📂 Projects
+
+### 🔍 Titanic Survival Prediction
+A beginner-friendly machine learning project predicting the survival chances of Titanic passengers using Python and pandas.  
+**🔗 [View Project](https://github.com/Rector24)**
+
+### 🌍 Traveling Website  
+A responsive HTML/CSS website for a school project.  
+**🔗 [View Project](https://github.com/Rector24)**
+
+### 🍽️ Meal Planning and Ordering System  
+OOP-based system for BC-Eats at Belgium Campus, streamlining meal orders for students and lecturers.  
+**🔗 [View Project](https://github.com/Rector24)**
+
+### 🍕 Macy-Pizza  
+The project focused on database design, implementation, security, and performance monitoring.  
+**🔗 [View Project](https://github.com/Rector24)**
+
+👉 **Explore more:** [All My Projects](https://github.com/Rector24?tab=repositories)
+
+---
+
+## 📊 GitHub Stats
+
+![Rector's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rector24&show_icons=true&theme=tokyonight&hide_border=false)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rector24&layout=compact&theme=tokyonight)
+
+---
+
+## 📫 How to Reach Me
+
+- 📧 Email: [Rectorphakula24@gmail.com](mailto:Rectorphakula24@gmail.com)
+- 📱 Phone: 066 196 1343
+- 💼 LinkedIn: [rector-phakula-45b246270](https://www.linkedin.com/in/rector-phakula-45b246270)
+- 🌐 Portfolio: [My Online CV](https://rector24.github.io/RectorPhakulaOnlineCVwebsite/)
+- 🧳 GitHub: [Rector24](https://github.com/Rector24)
+
+---
+
+## ✨ Let's Innovate Together!
+
+I’m always eager to collaborate on meaningful projects, challenge myself, and grow within the evolving tech landscape. Let’s build something amazing together! 🚀
 
 ---  
 
-## 🧰 MY PROJECTS:  
-
-*   **TITANIC SURVIVAL PREDICTION**: I was given a specific dataset to use to build a model that predicts whether a passenger on the Titanic survived or not. This is a classic beginner project with readily       available data. The dataset typically used for this project contains information about individual passengers, such as their age, gender, ticket class, fare, cabin, and whether or not they survived. I used      the Python programming language.
-  [View Project](https://github.com/Rector24/CODSOFT/tree/main/Titanic%20survival%20predication)
-
-
-*   **travelingWebsite)**: A traveling website project that I created for my cousin, for a school project he had for his CNA module, this was done using HTML/CSS.
-  [View Project](https://github.com/Rector24/Travelingwebsite)
-
-
-*  ***Meal-Planning-and-Ordering-System**: This project focuses on developing an Object-Oriented Programming (OOP) application for the Belgium Campus to manage meal planning and ordering. As the campus expands
-  its operations and collaborates with an independent entity, BC-Eats, this application aims to streamline the meal ordering process for both students and lecturers.
-  [View Project](https://github.com/Rector24/-Meal-Planning-and-Ordering-System)
-
-
-*  **Macy- Pizza**: This project aims to provide hands-on experience in database administration, covering design, implementation, security, and performance monitoring, which are crucial skills for any aspiring 
-   database administrator.
-  [View Project](https://github.com/Rector24/macy-pizza)
-
-*    **All Projects**: [View my full repository of projects here](https://github.com/Rector24?tab=repositories)  
-
----  
-
-## 🫒 CV / Online Portfolio  
-
-You can check out my portfolio at:  
-[My small Portfolio](https://github.com/Rector24/My-portfolio)
-
-[My CV website](https://rector24.github.io/RectorPhakulaOnlineCVwebsite/)
-
----  
-
-⚡ Fun fact: I love databases, working with people and most importantly, I spend plenty of time analyzing foreign markets.   
+⚡ Fun fact: I love databases, working with people, and most importantly, I spend plenty of time analyzing foreign markets.   
 
 
 

@@ -1,101 +1,127 @@
 # 👋 Hi, I'm Rector Phakula
 
-🎯 *Aspiring Software Developer | Database Administrator | Tech Enthusiast*  
-📍 *City of Johannesburg, Gauteng, South Africa*
+🚀 **Aspiring Software Developer | Database Administrator | Tech Enthusiast**  
+📍 Johannesburg, Gauteng, South Africa  
+🎓 Final-year IT Student @ Belgium Campus  
+📫 rectorphakula24@gmail.com | 📞 066 196 1343
 
 [![Image of Rector Nhlanhla Phakula](170251120.jpeg)](170251120.jpeg) 
 
 ---
 
-I love turning concepts into useful solutions and am passionate about **technology**, **innovation**, and **problem-solving**. With years of experience in software development, I thrive in dynamic environments where creativity meets code. From optimizing backend functionality to crafting intuitive user experiences, I tackle each challenge with performance, growth, and innovation in mind.
-
-🌱 Currently a final-year Information Technology diploma student at **Belgium Campus** (2023 - 2026), expanding my skills in real-world applications.
+🌟 I love turning concepts into impactful solutions. With a passion for **technology**, **innovation**, and **problem-solving**, I thrive in dynamic environments where creativity meets functionality. Whether it's optimizing back-end performance or building user-friendly interfaces, I tackle challenges with curiosity, efficiency, and a hunger for growth.
 
 ---
 
-## 🔗 How to Reach Me
-- 📧 Email: [Rectorphakula24@gmail.com](mailto:Rectorphakula24@gmail.com)  
+## 🧠 About Me
+
+- 🔧 Years of experience in **software development**, **web design**, and **database management**
+- 💡 I enjoy solving complex challenges and crafting intuitive user experiences
+- 💬 Constantly exploring and learning through hands-on projects
+- 🤝 Passionate about **collaboration**, **growth**, and contributing to the evolving tech world
+
+---
+
+## 📫 How to Reach Me
+
+- 📧 Email: [rectorphakula24@gmail.com](mailto:rectorphakula24@gmail.com)  
 - 📞 Phone: 066 196 1343  
-- 💼 [LinkedIn](https://www.linkedin.com/in/rector-phakula-45b246270)  
-- 🌐 [Online CV Website](https://rector24.github.io/RectorPhakulaOnlineCVwebsite/)  
-- 💻 [GitHub Profile](https://github.com/Rector24)
+- 🌐 Portfolio: [My Small Portfolio](https://rector24.github.io/RectorPhakulaOnlineCVwebsite/)  
+- 💼 LinkedIn: [Rector Phakula](https://www.linkedin.com/in/rector-phakula-45b246270/)  
+- 🖥️ GitHub: [github.com/Rector24](https://github.com/Rector24)
 
 ---
 
-## 🧰 Languages & Tools
+## 🛠️ Languages & Tools
 
-### 💻 Web & Software Development
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat-square&logo=wordpress)
+### 🌐 Web Design
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=white)
 
-### 💡 Programming
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
+### 💻 Programming Languages
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)
 
-### 🔧 Scripting & Automation
-![PowerShell](https://img.shields.io/badge/-PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
+### ⚙️ Scripting / Automation
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?logo=powershell&logoColor=white)
+![CMD](https://img.shields.io/badge/Command--Prompt-000000?logo=windows&logoColor=white)
 
-### 🛢️ Databases
-![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb)
+### 🗃️ Databases
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?logo=microsoft-sql-server&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
+![pgAdmin](https://img.shields.io/badge/pgAdmin-008bb9?logo=postgresql&logoColor=white)
 
-### 📊 Data Analysis & Visualization
-![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=power-bi&logoColor=black)
+### 📊 Data Analysis / Visualization
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?logo=powerbi&logoColor=black)
 
 ### 🌐 Networking
 - Network Setup (WLAN, LAN, ipconfig)
 - Cisco Packet Tracer
 
-### 🧑‍💻 Development Tools
-![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code)
-![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=flat-square&logo=visual-studio)
-![Anaconda](https://img.shields.io/badge/-Anaconda-44A833?style=flat-square&logo=anaconda)
-![PyCharm](https://img.shields.io/badge/-PyCharm-000000?style=flat-square&logo=pycharm)
-![Node-RED](https://img.shields.io/badge/-Node--RED-8F0000?style=flat-square&logo=nodered)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma)
-![pgAdmin](https://img.shields.io/badge/-pgAdmin-336791?style=flat-square&logo=postgresql)
-![NetBeans](https://img.shields.io/badge/-NetBeans-1B6AC6?style=flat-square&logo=apachenetbeanside)
+### 🧰 Dev Environments / Tools
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?logo=visual-studio-code&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?logo=visual-studio&logoColor=white)
+![Node-RED](https://img.shields.io/badge/Node--RED-8F0000?logo=nodered&logoColor=white)
+![Anaconda](https://img.shields.io/badge/Anaconda-44A833?logo=anaconda&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-000000?logo=pycharm&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)
+![NetBeans](https://img.shields.io/badge/NetBeans-1B6AC6?logo=apache-netbeans-ide&logoColor=white)
 
-### 🗂️ Project Management & Cloud
-- Project Libre  
-- Microsoft Azure ☁️
+### ☁️ Cloud Computing
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?logo=microsoft-azure&logoColor=white)
 
-### 🧸 Others
+### 📋 Project Management
+- Project Libre
+
+### 👶 Other Tools
 - Scratch 3
 
 ---
 
-## 📂 My Projects
+## 🧩 Certifications
 
-| 🧪 Project | 📝 Description |
-|-----------|----------------|
-| **🎯 Titanic Survival Prediction** | Built a predictive model using Python to determine passenger survival on the Titanic dataset. |
-| **🌍 Traveling Website** | Developed a responsive travel-themed website using HTML/CSS for a school project. |
-| **🍽️ Meal Planning & Ordering System** | OOP-based application for BC-Eats, aiding students and lecturers in meal planning at Belgium Campus. |
-| **🍕 Macy Pizza** | Designed and administered a database to handle real-world operations and performance. |
-
-📌 [Explore all my projects here »](https://github.com/Rector24?tab=repositories)
+- 📜 Introduction to Data Science  
+- 📜 Data Science  
+- 📜 Network Support and Security  
+- 📜 Python Essentials 1  
+- 📜 Introduction to Modern AI  
 
 ---
 
-## 📜 Certifications
+## 🧪 My Projects
 
-- 🧠 Introduction to Modern AI  
-- 📊 Introduction to Data Science  
-- 🧰 Python Essentials 1  
-- 🔐 Network Support and Security  
-- 📈 Data Science (via Power BI)
+### 🔍 Titanic Survival Prediction
+Built a machine learning model using **Python** to predict passenger survival from Titanic dataset using attributes like age, gender, class, etc.  
+> **Tools Used:** Python, Pandas, Scikit-learn
+
+### 🌍 Traveling Website
+A fully responsive website created using **HTML/CSS** for a school project to showcase travel destinations.  
+
+### 🍽️ Meal Planning and Ordering System
+An OOP-based project developed for **BC-Eats** at Belgium Campus to manage meal orders for students and lecturers.
+
+### 🍕 Macy Pizza
+A complete database administration project that covers schema design, implementation, and performance monitoring for a fictional pizza ordering system.
+
+> View all my repositories: [🔗 GitHub Projects](https://github.com/Rector24)
+
+---
+
+## 📄 Resume / CV
+
+- [🔗 View My Online CV Website](https://rector24.github.io/RectorPhakulaOnlineCVwebsite/)
 
 ---
 
 ## 📊 GitHub Stats
 
-![Rector's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rector24&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rector24&layout=compact&theme=radical)
+![Rector's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rector24&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rector24&layout=compact&theme=tokyonight)
 
 ---
 
-### 🙌 Let’s connect, collaborate, and build something great together!
+> “I’m continually seeking opportunities to **collaborate**, **build**, and **make a difference** in the ever-evolving tech industry.” – *Rector Phakula*
+
